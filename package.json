@@ -1,0 +1,16 @@
+{
+  "name": "erasewatermark",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "jose": "^5.9.6",
+    "sharp": "^0.33.5"
+  }
+}
